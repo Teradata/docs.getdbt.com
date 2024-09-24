@@ -8,7 +8,7 @@ meta:
   github_repo: 'Teradata/dbt-teradata'
   pypi_package: 'dbt-teradata'
   min_core_version: 'v0.21.0'
-  cloud_support: Not Supported
+  cloud_support: Supported
   min_supported_version: 'n/a'
   slack_channel_name: '#db-teradata'
   slack_channel_link: 'https://getdbt.slack.com/archives/C027B6BHMT3'
@@ -18,6 +18,7 @@ meta:
 
 Some core functionality may be limited. If you're interested in contributing, check out the source code in the repository listed in the next section.
 
+<Snippet path="warehouse-setups-cloud-callout" />
 
 import SetUpPages from '/snippets/_setup-pages-intro.md';
 
